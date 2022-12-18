@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frugal-fluctuations/static/css/main.3c882568.css",
+    "main.js": "/frugal-fluctuations/static/js/main.0c86ed67.js",
+    "static/js/787.75d2cdaf.chunk.js": "/frugal-fluctuations/static/js/787.75d2cdaf.chunk.js",
+    "static/media/logo.svg": "/frugal-fluctuations/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/frugal-fluctuations/index.html",
+    "main.3c882568.css.map": "/frugal-fluctuations/static/css/main.3c882568.css.map",
+    "main.0c86ed67.js.map": "/frugal-fluctuations/static/js/main.0c86ed67.js.map",
+    "787.75d2cdaf.chunk.js.map": "/frugal-fluctuations/static/js/787.75d2cdaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c882568.css",
+    "static/js/main.0c86ed67.js"
+  ]
+}
